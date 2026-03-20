@@ -2,6 +2,8 @@
 
 {{ cookiecutter.description }}
 
+Hydra and wandb are used for hyperparameters sweep. Uv is used as package manager.
+
 ## Cookiecutter template
 
 In the creation of project structure this [cookiecuter template](https://github.com/InfiniteLobster/cookiecutter-ml-project) was used.
