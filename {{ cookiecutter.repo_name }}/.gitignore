@@ -1,0 +1,19 @@
+#ignoring temporary files
+*.asv 
+*.log 
+*~ 
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+# Virtual environments
+.venv
+#ignoring data folders
+/data/
+/models/
+#ignoring sweep folders
+/wandb/
+/outputs/

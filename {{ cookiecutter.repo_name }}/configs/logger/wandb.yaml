@@ -1,0 +1,5 @@
+name: wandb
+entity: Wandb-team-name
+project: Wandb-project-name
+mode: online
+init_timeout: 1000
