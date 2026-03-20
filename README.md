@@ -1,6 +1,6 @@
 # cookiecutter-ml-project
 
-This is my cookiecutter template for machine learning (with focus on deep learning) projects with pyTorch. Hydra and wandb are used for hyperparameters sweep. It provides structure for project with utility and reproductibility in mind. 
+This is my cookiecutter template for machine learning (with focus on deep learning) projects with pyTorch. Hydra and wandb are used for hyperparameters sweep. Uv is used as package manager. It provides structure for project with utility and reproductibility in mind. 
 
 ## Repository download
 
