@@ -24,4 +24,4 @@ cookiecutter https://github.com/InfiniteLobster/cookiecutter-ml-project
 
 ## Version
 
-{{ 1.1.0 }} (Created: 26.01.2026)
+1.1.0 (Created: 26.01.2026)
