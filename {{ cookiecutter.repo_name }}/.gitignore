@@ -12,8 +12,8 @@ wheels/
 # Virtual environments
 .venv
 #ignoring data folders
-#/data/
-#/models/
+/data/
+/models/
 #ignoring sweep folders
 /wandb/
 /outputs/
